@@ -4,7 +4,7 @@
 
 This portfolio documents my learning journey through the Coding Black Females Introduction to Data Science short course.
 
-Across six modules, I will build evidence of my work in data quality, SQL, data warehousing, BigQuery, and data visualisation.
+Across six modules, I will build evidence of my work in data quality, SQL, data warehousing, BigQuery and data visualisation.
 
 ## Tools
 
@@ -15,6 +15,7 @@ Across six modules, I will build evidence of my work in data quality, SQL, data 
 - BigQuery
 
 ## Module 1: Introduction to Data
+
 ### Day 1 Evidence
 
 - [Data Detective exercise](docs/module-1/day-1-data-detective.md)
