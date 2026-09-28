@@ -33,5 +33,4 @@ The dataset has an order ID but no customer ID. I cannot tell whether two differ
 The dataset has an order ID but no customer ID. I cannot tell whether two different orders were placed by the same customer.
 
 ## Notes about provenance or limitations
-Record anything important about where the data came from, what is synthetic or public, or any limitations you should remember.
-
+The dataset comes from a public source. The source describes the sales data as synthetic, so I should not present my findings as real restaurant performance. 
